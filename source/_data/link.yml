@@ -1,0 +1,22 @@
+﻿class:
+  class_name: 好友
+  link_list:
+    # 友链修改
+    1:
+      name: 大风扇
+      link: https://largefan.github.io/
+      avatar: https://s1.imagehub.cc/images/2022/08/26/f03dbaadc6296e547cd352ce5267c764.th.jpg
+      descr: 事业正当午，身体壮如牛！
+      siteshot: https://s1.imagehub.cc/images/2022/08/26/f03dbaadc6296e547cd352ce5267c764.md.jpg
+    # 2:
+    #   name: 张君韵の博客
+    #   link: https://zsf9852.github.io/
+    #   avatar: https://s1.ax1x.com/2020/05/17/YRWsYT.png
+    #   descr: 吃饱饭干大活
+    #   siteshot: https://cdn.jsdelivr.net/gh/zhaoze-jpg/xianqi-img@main/img/1.webp
+    # 3:
+    #   name: XHの博客
+    #   link: http://xhdemohtml.top/
+    #   avatar: http://xhdemohtml.top/img/about/tou.png
+    #   descr: woshinibb
+    #   siteshot: https://z3.ax1x.com/2021/11/17/IhOiqA.jpg
